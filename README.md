@@ -31,10 +31,13 @@ Para comenzar con los ejercicios, asegúrate de tener lo siguiente instalado:
    Código de Ejemplo:
 
    ```javascript
-
-   const searchButton = document.getElementById('globalnav-menubutton-link-search');
-   const span = document.createElement('span');
-   span.textContent = 'Buscar';
+   const searchButton = document.getElementById(
+     "globalnav-menubutton-link-search",
+   );
+   const span = document.createElement("span");
+   span.textContent = "Buscar";
    searchButton.parentNode.insertBefore(span, searchButton.nextSibling);
-    ```
+   ```
+
    ![image](https://github.com/user-attachments/assets/2be081f7-cadd-4e00-8c56-cff8984d122e)
+   ![image](https://github.com/user-attachments/assets/18d9443e-94aa-49bd-b2f5-eba3dbf23138)
