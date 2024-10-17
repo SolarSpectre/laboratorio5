@@ -40,4 +40,14 @@ Para comenzar con los ejercicios, asegúrate de tener lo siguiente instalado:
    ```
 
    ![image](https://github.com/user-attachments/assets/2be081f7-cadd-4e00-8c56-cff8984d122e)
+   Eventos en un elemento creado por el DOM
+
+   ```js
+   span.addEventListener("click", () => {
+     alert('Has hecho clic en el span "Buscar"'); // Acción al hacer clic
+   });
+   ```
+
+   ```
    ![image](https://github.com/user-attachments/assets/18d9443e-94aa-49bd-b2f5-eba3dbf23138)
+   ```
