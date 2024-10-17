@@ -5,4 +5,9 @@ const searchButton = document.getElementById(
 );
 const span = document.createElement("span");
 span.textContent = "Buscar";
+span.style.fontSize = "14px";
+span.style.marginLeft = "10px";
+span.style.color = "#0071e3";
+span.style.fontFamily = "Arial, sans-serif";
+span.style.cursor = "pointer";
 searchButton.parentNode.insertBefore(span, searchButton.nextSibling);
