@@ -10,8 +10,6 @@ En este repositorio encontrarás diversos ejercicios que exploran aspectos impor
     Manejo de Eventos: Implementa eventos para hacer las páginas interactivas (como clics, envíos de formularios, entre otros).
     JavaScript Asincrónico: Usa setTimeout y promesas con fetch para realizar solicitudes asincrónicas y controlar el flujo de ejecución.
 
-Cada ejercicio se basa en funcionalidades comunes de la página de Apple, como menús de navegación, galerías de productos e interacciones de búsqueda.
-
 # 🚀 Comenzando
 
 Requisitos Previos
