@@ -47,7 +47,4 @@ Para comenzar con los ejercicios, asegúrate de tener lo siguiente instalado:
      alert('Has hecho clic en el span "Buscar"'); // Acción al hacer clic
    });
    ```
-
-   ```
    ![image](https://github.com/user-attachments/assets/18d9443e-94aa-49bd-b2f5-eba3dbf23138)
-   ```
