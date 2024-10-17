@@ -30,9 +30,11 @@ Para comenzar con los ejercicios, asegúrate de tener lo siguiente instalado:
    Habilidades Practicadas: Manipulación del DOM, creación de elementos y su inserción dinámica.
    Código de Ejemplo:
 
-   javascript
+   ```javascript
 
    const searchButton = document.getElementById('globalnav-menubutton-link-search');
    const span = document.createElement('span');
    span.textContent = 'Buscar';
    searchButton.parentNode.insertBefore(span, searchButton.nextSibling);
+    ```
+   ![image](https://github.com/user-attachments/assets/2be081f7-cadd-4e00-8c56-cff8984d122e)
